@@ -1,0 +1,22 @@
+{
+  "name": "xj-custom-js",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "email": "nihaofht@126.com",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:unsilence/xj-custom-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
